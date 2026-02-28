@@ -69,3 +69,7 @@ In practice, this means:
   Do **not** post summaries unless you take responsibility for 100% of their content.
   Remember that *all* LLM output *looks* **plausible**.
   When using these tools, it's **your** responsibility to ensure that it's also **correct**.
+
+## Thanks
+
+This policy was copied from the `attrs` project. Many thanks to them for developing it.
